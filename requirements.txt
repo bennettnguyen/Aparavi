@@ -1,0 +1,32 @@
+# Web Framework
+streamlit>=1.28.0
+
+# Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# LLM and AI
+openai>=1.3.0
+llama-index-core>=0.10.0
+llama-index-vector-stores-qdrant>=0.2.0
+llama-index-retrievers-bm25>=0.1.0
+llama-index-llms-openai>=0.1.0
+llama-index-embeddings-openai>=0.1.0
+
+# Databases
+qdrant-client>=1.6.0
+neo4j>=5.13.0
+
+# Document Processing
+pypdf>=3.17.0
+pytesseract>=0.3.10
+Pillow>=10.0.0
+openai-whisper>=20231117
+
+# Evaluation
+deepeval>=0.21.0
+
+# Utilities
+uuid
+logging
+traceback 
